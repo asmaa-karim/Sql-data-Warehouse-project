@@ -91,6 +91,4 @@ sql-datawarehouse-project/
 
 ## Author
 
-Sama
 
-Aspiring Data Analyst passionate about Data Engineering, Data Warehousing, and Business Intelligence.
